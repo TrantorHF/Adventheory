@@ -172,11 +172,11 @@
 10305 print:print
 10310 print"{clear}":printtab(10)" Istruzioni"
 10320 print"Scopo di questo gioco e' raggiungere una"
-10330 print" colonia Bigfoot, lo yeti americano, "
+10330 print"colonia Bigfoot, lo yeti americano,     "
 10340 print"sulle montagne della California. Il ruo-"
 10350 print"lo del giocatore e' quello di Martin{space*4}"
 10360 print"Mystere, noto antropologo. Per procedere"
-10370 print" nella sua avventura il giocatore ha bi-"
+10370 print"nella sua avventura il giocatore ha bi- "
 10380 print"sogno di informazioni e di pezzi. Per{space*3}"
 10390 print"parlare - ove cio' e' possibile - usera'"
 10400 print"frasi composte con cinque parole al mas-"
@@ -185,7 +185,7 @@
 10421 fore=1to20000:next:print"{clear}"
 10430 print"Per gli inputs di spostamento personale "
 10440 print"o di movimentazione degli oggetti usera'"
-10445 print" frasi con le usuali due parole: Verbo +"
+10445 print"frasi con le usuali due parole: Verbo + "
 10446 print"Nome."
 10450 foru=1 to10000:next:return
 20000 rem iniz. variabili (descrizioni
