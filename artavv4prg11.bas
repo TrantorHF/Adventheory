@@ -90,7 +90,7 @@
 1310 print"meglio...":goto310
 1330 if p=3 and no$="radura" then p=4:goto200
 1340 if p=5 and no$="corridoio" then p=7:goto200
-1350 print"meglio...".goto310
+1350 print"meglio...":goto310
 1360 rem routine "lancio"
 1370 if p=7 and no$="corda" then p=8:goto200
 1380 print"meglio...":goto310
