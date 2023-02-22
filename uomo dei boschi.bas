@@ -226,7 +226,7 @@
 10100 rem routine titoli
 10110 print"{clear}{down*4}"
 10112 print"          - L'uomo dei boschi -         "
-10114 print"                       M.M.32 01/12/1991"
+10114 print"                          M.M.32 11/1984"
 10116 print"S. Certi & F. Toldi"
 10118 print"{down}"
 10120 print"Questo programma e' stato scritto per{space*3}"
